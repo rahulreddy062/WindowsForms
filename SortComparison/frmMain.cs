@@ -42,18 +42,7 @@ namespace SortComparison
             this.cmdShuffle.BackColor = Color.Chocolate;
 
 
-            {
-                this.tbSamples.Maximum = 800;
-                this.tbSamples.Value = 200;
-                this.cboAlg1.SelectedIndex = 3;
-                this.cboAlg2.SelectedIndex = 12;
-
-
-
-
-
-
-            }
+           
         }
 
         public void Randomize(IList list)

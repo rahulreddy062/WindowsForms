@@ -37,3 +37,15 @@ C:\Users\S533978\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortCompariso
 C:\Users\S533978\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S533978\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.pdb
 >>>>>>> c8adad5714854f08dba00ca42418a42ac77ffd4e
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S533979\Desktop\WindowsForms\SortComparison\obj\x86\Debug\SortComparison.pdb
