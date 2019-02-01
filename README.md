@@ -1,6 +1,6 @@
 ## References
 
-This code is taken for the following link ![Reference Link](https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms)
+This code is taken for the following link [Reference Link](https://www.codeproject.com/Articles/132757/Visualization-and-Comparison-of-sorting-algorithms)
 
 ## Answer to the  questions 
 
