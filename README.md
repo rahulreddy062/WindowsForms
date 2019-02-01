@@ -18,4 +18,5 @@ This code is taken for the following link [Reference Link](https://www.codeproje
 8. this.cboAlg1.SelectedIndex=12, this command is used to set the default value to Quick sort.
 10. InitializeOutputFolder() is used to return the base directory where Application.exe exists.
 11. this.cmdShuffle is the function in frmMain.cs used to shuffle the values to be sorted and performClick() method is used to derive a click event.
-12. 
+12. this.cmdSort.ForeColor = Color.BlueViolet;
+13. this.cmdShuffle.BackColor = Color.Chocolate;
