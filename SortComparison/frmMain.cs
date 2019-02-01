@@ -28,29 +28,33 @@ namespace SortComparison
         }
 
         private void Form1_Load(object sender, EventArgs e)
-<<<<<<< HEAD
-        { 
-            
-            this.tbSamples.Maximum = 400;
-            this.tbSamples.Value = 200;
-            this.cmdShuffle.PerformClick();
-            
-            this.cboAlg1.SelectedIndex = 3;
-            this.cboAlg2.SelectedIndex = 12;
-            
-=======
+
         {
-            this.tbSamples.Maximum = 800;
-            this.tbSamples.Value = 200;
+
+            this.tbSamples.Maximum = 400;
+            this.tbSamples.Value = 20;
+            this.cmdShuffle.PerformClick();
+            this.InitializeOutputFolder();
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
-
+            this.cmdShuffle.PerformClick();
+            this.cmdSort.ForeColor = Color.BlueViolet;
             
-            
 
 
-          
->>>>>>> c8adad5714854f08dba00ca42418a42ac77ffd4e
+
+            {
+                this.tbSamples.Maximum = 800;
+                this.tbSamples.Value = 200;
+                this.cboAlg1.SelectedIndex = 3;
+                this.cboAlg2.SelectedIndex = 12;
+
+
+
+
+
+
+            }
         }
 
         public void Randomize(IList list)
@@ -281,3 +285,4 @@ namespace SortComparison
 
     }
 }
+    
