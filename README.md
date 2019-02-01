@@ -16,7 +16,7 @@ This code is taken for the following link [Reference Link](https://www.codeproje
 6. The default value should be between Maximum and Minimum values, hence the IDE shows an error if it is not.
 7. this.cboAlg1.SelectedIndex=3, this command is used to set the default value to Bucket sort.
 8. this.cboAlg1.SelectedIndex=12, this command is used to set the default value to Quick sort.
-10. InitializeOutputFolder() is used to return the base directory where Application.exe exists.
+10. InitializeOutputFolder() is used to return the base directory where program.cs exists.
 11. this.cmdShuffle is the function in frmMain.cs used to shuffle the values to be sorted and performClick() method is used to derive a click event.
 12. this.cmdSort.ForeColor = Color.BlueViolet;
 13. this.cmdShuffle.BackColor = Color.Chocolate;
