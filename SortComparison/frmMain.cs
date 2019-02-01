@@ -28,6 +28,7 @@ namespace SortComparison
         }
 
         private void Form1_Load(object sender, EventArgs e)
+<<<<<<< HEAD
         { 
             
             this.tbSamples.Maximum = 400;
@@ -37,6 +38,19 @@ namespace SortComparison
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
             
+=======
+        {
+            this.tbSamples.Maximum = 800;
+            this.tbSamples.Value = 200;
+            this.cboAlg1.SelectedIndex = 3;
+            this.cboAlg2.SelectedIndex = 12;
+
+            
+            
+
+
+          
+>>>>>>> c8adad5714854f08dba00ca42418a42ac77ffd4e
         }
 
         public void Randomize(IList list)
